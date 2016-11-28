@@ -4,4 +4,4 @@
 mvn clean package
 
 <h4>Запуск</hr4>
-java -jar target/
+java -jar target/JavaFX_example-1.0.0.jar

@@ -1,0 +1,9 @@
+ru\example_JavaFX\UI\Controller.class
+ru\example_JavaFX\JavaFXApplication_Support.class
+ru\example_JavaFX\ConfigControllers$View.class
+ru\example_JavaFX\ConfigControllers.class
+ru\example_JavaFX\Application.class
+ru\example_JavaFX\Interfaces\ContractService.class
+ru\example_JavaFX\Interfaces\ContactRepository.class
+ru\example_JavaFX\Entity\Contact.class
+ru\example_JavaFX\service\ContactService.class
